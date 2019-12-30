@@ -1,3 +1,4 @@
-# Welcome to my blog
+# Welcome to my first page
 
-I'm glad you are here. I plan to talk about ...
+For the first order of business, I would like to formally introduce myself.
+
